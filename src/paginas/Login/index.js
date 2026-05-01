@@ -20,7 +20,7 @@ class Login extends Component {
 
     await firebase.auth().signInWithEmailAndPassword(this.state.email, this.state.senha)
       .then(() => {
-        window.location.href = "#/principal";
+        window.location.href = "/#/principal";
       })
       .catch((erro) => {
         this.setState({ mensagemErro: "O USUÁRIO NÃO ESTÁ CADASTRADO." });
