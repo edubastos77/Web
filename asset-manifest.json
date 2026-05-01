@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/edubastos77/Web/static/css/main.d73dfe75.css",
-    "main.js": "/edubastos77/Web/static/js/main.cf41ae96.js",
-    "index.html": "/edubastos77/Web/index.html",
-    "main.d73dfe75.css.map": "/edubastos77/Web/static/css/main.d73dfe75.css.map",
-    "main.cf41ae96.js.map": "/edubastos77/Web/static/js/main.cf41ae96.js.map"
+    "main.css": "/Web/static/css/main.d73dfe75.css",
+    "main.js": "/Web/static/js/main.6c0383b0.js",
+    "index.html": "/Web/index.html",
+    "main.d73dfe75.css.map": "/Web/static/css/main.d73dfe75.css.map",
+    "main.6c0383b0.js.map": "/Web/static/js/main.6c0383b0.js.map"
   },
   "entrypoints": [
     "static/css/main.d73dfe75.css",
-    "static/js/main.cf41ae96.js"
+    "static/js/main.6c0383b0.js"
   ]
 }
