@@ -1,8 +1,7 @@
 {
   "name": "exercicios",
   "version": "0.1.0",
-  "homepage": "https://github.com/edubastos77/Web/",
-  "private": true,
+  "homepage": "https://edubastos77.github.io/Web",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
