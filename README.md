@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Acessar link: https://edubastos77.github.io/Web/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
