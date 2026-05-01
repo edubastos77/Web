@@ -1,9 +1,9 @@
 import {BrowserRouter, Route, Routes} from 'react-router-dom';
 
-import Login from './unid-6/paginas/Login';
-import Cadastro from './unid-6/paginas/Cadastro';
-import Principal from './unid-6/paginas/Principal';
-import NotFound from './unid-6/paginas/NotFound';
+import Login from './paginas/Login';
+import Cadastro from './paginas/Cadastro';
+import Principal from './paginas/Principal';
+import NotFound from './paginas/NotFound';
 
 const Rotas = () => {
     return (
